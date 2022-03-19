@@ -1,0 +1,104 @@
+.header{
+    background: #3b5998;
+
+    width: 100%;
+    height: 85px;
+
+}
+body{
+    margin: 0;
+    font-family:  Helvetica neue, helvetica,Arial, sans-serif;
+
+}
+.logo{
+    width: 50%;
+    padding: 10px;
+    float: left;
+    
+}
+       .login control{
+           width:50%;
+           float: right;
+           
+       }
+       
+   .logo-text{
+
+     color: white;
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica neue, helvetica,Arial, sans-serif;
+    margin-right: 170px;
+   }
+   .login-label{
+       color:white;
+       font-size: 15px;
+   }
+   .forgotten-password{
+       font-size: smaller;
+       color:black
+   }
+   .sub-btn{
+       background-color: green;
+
+   }
+   .left-section{
+       width:50%;
+       float:left;
+   }
+   .right-section{
+       width:50%;
+       float:right;
+   }
+   
+   .main body{
+
+   width:100%;
+   height: 500px;
+   }
+   .image{
+       width:39%;
+       float:left;
+       padding-left:125px;
+   }
+   .para{
+       font-weight: bold;
+       font-size: 21px;
+       border-color:blue;
+
+   }
+   .submitbtn{
+
+   
+       margin-bottom: 17px;
+       border-radius: 20px;
+       color:white;
+
+   }
+   
+         
+     }
+
+   }
+
+
+
+   
+
+
+       
+
+   
+   
+
+   
+
+
+       
+   
+       
+
+   
+
+       
